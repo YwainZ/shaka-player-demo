@@ -4,7 +4,7 @@ Shaka player是谷歌开源的js库，主要优势是可以使用drm对视频进
 ### :pencil: 使用
 
 ```
-yarn init
+yarn initall
 
 yarn start
 
